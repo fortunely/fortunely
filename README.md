@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fortunely
-- 👀 I’m interested in Linux C/C++, auto electrics product, MCU and CAN phy.
-- 🌱 I’m currently learning Linux C/C++, socket programing and BSP development.
+- 👀 I’m interested in Linux C/C++(socket, BSP dev), auto electrics product, MCU and CAN phy.
 - 💞️ I’m looking to collaborate on Linux.
 - 📫 email: zhangming_233@163.com
 
